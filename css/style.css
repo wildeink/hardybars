@@ -337,6 +337,7 @@ p {
   font-family: "Playfair Display", serif;
   font-weight: 700;
   font-style: italic;
+  white-space: nowrap; /* logo wraps otherwise */
 }
 .fh5co-main-nav .fh5co-logo a {
   position: relative;
