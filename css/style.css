@@ -543,7 +543,7 @@ p {
 }
 @media screen and (max-width: 768px) {
   #fh5co-featured {
-    padding: 5em 0;
+    padding: 3em 0;
   }
 }
 #fh5co-featured .fh5co-heading .heading {
@@ -556,7 +556,7 @@ p {
   width: 64px;
   position: absolute;
   content: "";
-  background: url(../images/0103-served-plate_64.png) no-repeat;
+  /*background: url(../images/0103-served-plate_64.png) no-repeat; */
   top: 0;
   left: 50%;
   margin-top: -50px;
@@ -777,7 +777,7 @@ p {
   width: 64px;
   position: absolute;
   content: "";
-  background: url(../images/0401-vegan.png) no-repeat;
+  /*background: url(../images/0401-vegan.png) no-repeat; */
   top: 0;
   left: 50%;
   margin-top: -50px;
@@ -913,7 +913,7 @@ p {
   width: 49px;
   position: absolute;
   content: "";
-  background: url(../images/0402-chef.png) no-repeat;
+ /* background: url(../images/0402-chef.png) no-repeat; */
   top: 0;
   left: 50%;
   margin-top: -50px;
@@ -1353,6 +1353,12 @@ p {
 
 .row-padded {
   padding-bottom: 40px;
+}
+
+.locations li {
+  padding: 0;
+  margin: 0;
+  list-style: none;
 }
 
 /*# sourceMappingURL=style.css.map */

@@ -1,0 +1,6 @@
+##################
+- optimize photos
+- ask Mike about 4th photo -- should be photo of bars
+- make sure cross device/brower compat.
+- ask Mike for social media LINKS
+- text for 4 squares
