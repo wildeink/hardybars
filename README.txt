@@ -1,8 +1,4 @@
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 85ec4e039818cd8fcbdbc79c219e843aa6ae6c33
 CREDITS:
 
 Bootstrap
